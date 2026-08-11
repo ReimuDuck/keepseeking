@@ -1,4 +1,4 @@
-# keepseeking.github.io
+# keepseeking
 KEEP SEEKING   
 Keep Seeking is a format where both players use the same deck.   
 The only attack a player may announce is seek inspiration or copycat to copy seek inspiration.   
